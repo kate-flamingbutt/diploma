@@ -1,0 +1,65 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+tam
+noga
+ork
+sem
+po
+uzh
+to
+tochno
+skazat
+vse
+sam
+hot
+net
+delo
+zhe
+stanovit
+kakoj
+kto
+kuda
+gora
+ni
+sudar
+put
+hobbit
+bezhat
+kamennyij
+vot
+tri
+bashnya
+gondor
+fijskij
+li
+pin
+shtormik
+gorlum
+legolas
+boromir
+horosho
+tot
+kamen
+nelyudimyij
+denetor
+lish
+oba
+idti
+kak
+mister
+doroga
+vorota
+so
+skol
+dal
+nu
+ruka
+samyij
+daleko
+zub
+vesti
