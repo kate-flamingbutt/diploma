@@ -1,7 +1,7 @@
 import os
 from fnmatch import fnmatch
 
-root = 'C:\\Users\\ekaterina.morozova\\Desktop\\deeplom\\diploma\\lemmatized_with_stops'
+root = 'C:\\Users\\ekaterina.morozova\\Desktop\\deeplom\\diploma\\lemmatized_no_stops'
 pattern = "*.txt"
 
 for path, subdirs, files in os.walk(root):
